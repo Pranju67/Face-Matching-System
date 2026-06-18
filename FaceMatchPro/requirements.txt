@@ -1,0 +1,26 @@
+# FaceMatch Pro – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# UI
+customtkinter>=5.2.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Numerics
+numpy>=1.24.0
+
+# Image processing
+Pillow>=10.0.0
+
+# PDF generation
+reportlab>=4.0.0
+
+# Charts (optional but recommended)
+matplotlib>=3.7.0
+
+# Structural similarity (optional – app falls back to built-in)
+scikit-image>=0.21.0
+
+# Database (optional – app falls back to in-memory store)
+pymongo>=4.6.0

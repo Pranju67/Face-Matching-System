@@ -1,0 +1,10 @@
+{
+  "theme": "dark",
+  "similarity_threshold": 44.300000000000004,
+  "mongo_host": "localhost",
+  "mongo_port": 27017,
+  "export_path": "C:\\Users\\pranj\\OneDrive\\Desktop\\FaceMatchPro\\reports",
+  "window_width": 1400,
+  "window_height": 860,
+  "auto_save_pdf": false
+}
